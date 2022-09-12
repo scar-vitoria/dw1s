@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(102, 117, 102);
+}
+table, td{
+    border:solid 1px black;
+}
+
+p{
+    color: white;
+}
+
+#f{
+    background-color: black;
+}
+
+#l1{
+    background-color: green;
+    padding: 10x 10px;
+    text-align: center;
+}
+
+#l2{
+    background-color: greenyellow;
+    padding: 10x 10px;
+    text-align: center;
+}
+
+#l3{
+    background-color: grey;
+    padding: 10x 10px;
+    text-align: center;
+}
+
+#l4{
+    background-color: darkgrey;
+    padding: 10x 10px;
+    text-align: center;
+}
